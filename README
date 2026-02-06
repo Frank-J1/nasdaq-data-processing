@@ -1,0 +1,24 @@
+# Financial Data Analysis Using Nasdaq Data Link
+
+This project explores financial statement data retrieved via the Nasdaq Data Link API.
+The analysis focuses on EBITDA margins across companies and over time.
+
+## Contents
+- `Basics.ipynb`: Data ingestion, cleaning, analysis, and visualization
+
+## Highlights
+- API-based data retrieval
+- EBITDA margin distribution analysis
+- Time-series smoothing with moving averages
+- Clear matplotlib visualizations
+
+## Tools Used
+- Python
+- pandas
+- matplotlib
+- requests
+- Jupyter Notebook
+
+## Notes
+The notebook is fully rendered on GitHub and includes all charts and outputs.
+API keys are excluded for security reasons.
